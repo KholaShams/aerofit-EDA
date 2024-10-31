@@ -1,4 +1,4 @@
-# A E R O F I T    E X P L O R A T O R Y    D A T A    A N A L Y S I S    ( E D A )
+# A E R O F I T---E X P L O R A T O R Y---D A T A---A N A L Y S I S---( E D A )
 
 # Table of Contents
 
